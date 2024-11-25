@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-atualmente estudo, 17 anos<br>sou especialista em controlar estresse<br>não gosto de café puro<br>buscando ser um bom dev :)
+atualmente estudo, 18 anos<br>sou especialista em controlar estresse<br>não gosto de café puro<br>buscando ser um bom dev :)
 
 
 ## 🌐 Socials:
