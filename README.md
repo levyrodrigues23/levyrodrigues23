@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/n8n-%230B5E87.svg?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/Typebot-%239146FF.svg?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Automação-%23FF5733.svg?style=for-the-badge">
 </p>
 
 ---
