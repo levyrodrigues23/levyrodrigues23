@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá! Eu sou José Levy Rodrigues ✨</h1>
 
 <p align="center">
-💻 Estudante de desenvolvimento | 🚀 Buscando evoluir todos os dias | 🎯 Focado em ser um ótimo dev
+💻 Estudante de programação | 🚀 Buscando evoluir todos os dias | 🎯 Focado em ser um ótimo dev
 </p>
 
 ---
