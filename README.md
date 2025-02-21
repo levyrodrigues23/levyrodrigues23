@@ -23,8 +23,6 @@
 ---
 
 ## 📌 Projetos em Destaque:
-🔹 [**WaterTrack**](https://github.com/seu-repositorio) - Um app para lembrar as pessoas de beber água. 💧📱  
-🔹 [**Jogo Educativo**](https://github.com/seu-repositorio) - Um jogo para ensinar HTML, CSS e JavaScript. 🎮📚  
 
 ➡️ Veja mais projetos no meu [GitHub](https://github.com/levyrodrigues23)  
 
@@ -57,6 +55,6 @@
 
 ---
 
-![visitors](https://visitcount.itsvg.in/api?id=levyrodrigues23&label=Profile%20Views&color=6&icon=5)
+
 
 <!-- Criado com muito 💙 e dedicação! -->
