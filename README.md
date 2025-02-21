@@ -1,32 +1,62 @@
-# 💫 Sobre Mim:
-- Atualmente estudo e tenho 18 anos.  
-- Especialista em manter a calma sob pressão.  
-- Não gosto de café puro.  
-- Buscando me tornar um bom desenvolvedor. 🚀  
+<h1 align="center">✨ Olá! Eu sou José Levy Rodrigues ✨</h1>
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigues_jlevy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-levy-rodrigues-da-silva-47015a301)  
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=levyrodrigues23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=levyrodrigues23&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=levyrodrigues23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<p align="center">
+💻 Estudante de desenvolvimento | 🚀 Buscando evoluir todos os dias | 🎯 Focado em ser um ótimo dev
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=levyrodrigues23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Criado com GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 Sobre Mim:
+- 🎓 Atualmente estudante, 18 anos.  
+- 😌 Especialista em manter a calma sob pressão.  
+- ☕ Não gosto de café puro, mas aceito um capuccino!  
+- 🚀 Sempre aprendendo e evoluindo no mundo da programação.  
+- 🎯 Meu objetivo? Criar projetos impactantes e ser um excelente desenvolvedor!  
+
+---
+
+## 🚀 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dart,python,git,github,canva,figma" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque:
+🔹 [**WaterTrack**](https://github.com/seu-repositorio) - Um app para lembrar as pessoas de beber água. 💧📱  
+🔹 [**Jogo Educativo**](https://github.com/seu-repositorio) - Um jogo para ensinar HTML, CSS e JavaScript. 🎮📚  
+
+➡️ Veja mais projetos no meu [GitHub](https://github.com/levyrodrigues23)  
+
+---
+
+## 🌍 Como me Encontrar?
+📸 **Instagram:** [@rodrigues_jlevy](https://instagram.com/rodrigues_jlevy)  
+👔 **LinkedIn:** [José Levy Rodrigues](https://www.linkedin.com/in/jos%C3%A9-levy-rodrigues-da-silva-47015a301)  
+💌 **E-mail:** levyrodrigues@gmail.com  
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=levyrodrigues23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400px"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levyrodrigues23&theme=tokyonight&hide_border=false" width="400px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyrodrigues23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px"/>
+</p>
+
+---
+
+## 🎯 Hobbies & Interesses:
+- 🎮 Apaixonado por games.  
+- 📖 Amo ler livros e jornais no tempo livre.  
+- 🏆 Acompanhar eventos das Olimpíadas.  
+- ⚽ Flamenguista de coração. 🔴⚫  
+
+---
+
+![visitors](https://visitcount.itsvg.in/api?id=levyrodrigues23&label=Profile%20Views&color=6&icon=5)
+
+<!-- Criado com muito 💙 e dedicação! -->
