@@ -1,60 +1,42 @@
-<h1 align="center">✨ Olá! Eu sou José Levy Rodrigues ✨</h1>
+<h1 align="center">🚀 Olá! Eu sou José Levy Rodrigues</h1>
 
 <p align="center">
-💻 Estudante de programação | 🚀 Buscando evoluir todos os dias | 🎯 Focado em ser um ótimo dev
+  <b>Desenvolvedor em construção, explorando tecnologia e automação.</b>
 </p>
 
 ---
 
-## 🔥 Sobre Mim:
-- 🎓 Atualmente estudante, 18 anos.  
-- 😌 Especialista em manter a calma sob pressão.  
-- ☕ Não gosto de café puro, mas aceito um capuccino!  
-- 🚀 Sempre aprendendo e evoluindo no mundo da programação.  
-- 🎯 Meu objetivo? Criar projetos impactantes e ser um excelente desenvolvedor!  
+## 🧐 Sobre mim:
+- 👨‍💻 Estudo desenvolvimento e tecnologia.  
+- ☕ Café puro? Prefiro não.  
+- 🎯 Buscando evolução constante.  
 
 ---
 
-## 🚀 Tech Stack:
+## ⚡ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dart,python,git,github,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dart,python,git,github,automation" />
+  <img src="https://img.shields.io/badge/-n8n-0B5E87?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Typebot-9146FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque:
-
-➡️ Veja mais projetos no meu [GitHub](https://github.com/levyrodrigues23)  
-
----
-
-## 🌍 Como me Encontrar?
+## 🌍 Onde me encontrar?
 📸 **Instagram:** [@rodrigues_jlevy](https://instagram.com/rodrigues_jlevy)  
 👔 **LinkedIn:** [José Levy Rodrigues](https://www.linkedin.com/in/jos%C3%A9-levy-rodrigues-da-silva-47015a301)  
-💌 **E-mail:** levyrodrigues@gmail.com  
+💌 **E-mail:** joselevyrodrigues23@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levyrodrigues23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400px"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levyrodrigues23&theme=tokyonight&hide_border=false" width="400px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyrodrigues23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=levyrodrigues23&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levyrodrigues23&theme=radical&hide_border=true" width="400px"/>
 </p>
 
 ---
 
-## 🎯 Hobbies & Interesses:
-- 🎮 Apaixonado por games.  
-- 📖 Amo ler livros e jornais no tempo livre.  
-- 🏆 Acompanhar eventos das Olimpíadas.  
-- ⚽ Flamenguista de coração. 🔴⚫  
+![visitors](https://visitcount.itsvg.in/api?id=levyrodrigues23&label=Profile%20Views&color=6&icon=5)
 
----
-
-
-
-<!-- Criado com muito 💙 e dedicação! -->
+<!-- Simples, direto e sem firulas. -->
