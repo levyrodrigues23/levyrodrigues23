@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! Eu sou o Levy</h1>
 
 <p align="center">
-  🎓 Estudante de programação | 🧘‍♂️ Especialista em controlar o estresse <br>
+  🎓 Estudante de programação | 🧘‍♂️ Análise e desenvolvimento de Sistemas | UFC<br>
   ☕ Não gosto de café puro | 🚀 Buscando ser um bom dev 
 </p>
 
