@@ -52,10 +52,18 @@
 
 ---
 
+## 📈 Métricas do GitHub:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/levyrodrigues23/levyrodrigues23/github-metrics.svg" alt="Metrics" width="95%">
+</p>
+
+---
+
 ## 🎯 Sobre mim:
 <p align="center">
   Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender mais e evoluir como desenvolvedor.<br>
-  Atualmente, me aprofundando em **TypeScript** e tecnologias relacionadas a **frontend** e **backend**.
+  Atualmente, me aprofundando em <strong>TypeScript</strong> e tecnologias relacionadas a <strong>frontend</strong> e <strong>backend</strong>.
 </p>
 
 ---
