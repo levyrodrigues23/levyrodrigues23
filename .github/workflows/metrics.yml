@@ -1,8 +1,9 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}] # Atualiza todo início de hora
-  workflow_dispatch:             # Permite execução manual
+  schedule:
+    - cron: "0 * * * *"       # Atualiza todo início de hora
+  workflow_dispatch:           # Permite execução manual
 
 jobs:
   github-metrics:
@@ -14,7 +15,8 @@ jobs:
           sudo apt-get remove -y containerd
           sudo apt-get install -y docker.io jq
 
-      - uses: lowlighter/metrics@v3.23
+      - name: Gerar métricas do GitHub
+        uses: lowlighter/metrics@v3.23
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
