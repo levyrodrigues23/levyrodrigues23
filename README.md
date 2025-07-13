@@ -1,13 +1,71 @@
-<h1 align="center">👋 Olá! Eu sou o Levy</h1>
+<h1 align="center">👋 Olá, eu sou o Levy!</h1>
 
 <p align="center">
-  🎓 Estudante de Programação | 🧘‍♂️ Análise e Desenvolvimento de Sistemas - UFC<br>
-  ☕ Prefiro café com leite | 🚀 Aspirante a Desenvolvedor Full Stack
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na UFC<br>
+  💻 Desenvolvedor Full Stack apaixonado por tecnologia<br>
+  ☕ Amante de café com leite | 🚀 Sempre em busca de novos desafios
 </p>
 
 ---
 
-## 🌍 Onde me encontrar:
+## 🧰 Tech Stack
+
+<details>
+  <summary><strong>🖥️ Front-end</strong></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge" alt="shadcn/ui">
+  </p>
+</details>
+
+<details>
+  <summary><strong>🔙 Back-end</strong></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  </p>
+</details>
+
+<details>
+  <summary><strong>⚙️ Automação / Outros</strong></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/n8n-0B5E87?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+    <img src="https://img.shields.io/badge/Typebot-9146FF?style=for-the-badge" alt="Typebot">
+  </p>
+</details>
+
+<details>
+  <summary><strong>🧰 Ferramentas</strong></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  </p>
+</details>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=levyrodrigues23&theme=radical&show_icons=true&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levyrodrigues23&theme=radical&hide_border=false" width="48%" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyrodrigues23&theme=radical&hide_border=false&layout=compact" width="48%" alt="Top Languages">
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
 <p align="center">
   <a href="https://instagram.com/rodrigues_jlevy">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
@@ -16,54 +74,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:joselevyrodrigues23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</p>
-
----
-
-## 🚀 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/n8n-%230B5E87.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Typebot-%239146FF.svg?style=for-the-badge" alt="Typebot">
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levyrodrigues23&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levyrodrigues23&theme=dark&hide_border=false" width="48%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyrodrigues23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages">
-</p>
-
----
-
-## 📈 Métricas do GitHub:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/levyrodrigues23/levyrodrigues23/github-metrics.svg" alt="Metrics" width="95%">
-</p>
-
----
-
-## 🎯 Sobre mim:
-<p align="center">
-  Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender mais e evoluir como desenvolvedor.<br>
-  Atualmente, me aprofundando em <strong>TypeScript</strong> e tecnologias relacionadas a <strong>frontend</strong> e <strong>backend</strong>.
 </p>
 
 ---
