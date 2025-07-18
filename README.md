@@ -65,7 +65,7 @@
 
 ---
 
-## 🐍 Snake Game
+
 
 <p align="center">
   <img src="https://github.com/levyrodrigues23/levyrodrigues23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
