@@ -14,7 +14,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UFC  
 💻 Desenvolvedor Full Stack apaixonado por tecnologia  
-☕ Viciado em café com leite | 🚀 Sempre em busca de desafios e aprendizado  
 📍 Itapajé-CE  
 
 
